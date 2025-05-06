@@ -1,0 +1,35 @@
+Havuz Problemi!
+
+ Bir havuzu bir musluk 34 haftada, başka bir musluk ise 18 haftada doldurur. Bu iki musluk kapalı iken Aziz, başka bir musluğu açıp, havuzu doldurmak ister. 
+
+
+İstanbul, Eskişehir, Sivas, Ankara, Karabük, İzmir’de çalışmalara başlar. Borular döşenir, havuzun kısa zamanda dolması amaçlanır. 
+
+Önce boruların döşenmesi için “organize” olunması gerekir. Alt yapı çalışmalarına başlanır. 17 yaş altı, bel altı vuruşu yapabilecek ekip kurulur. 
+Şekip, İlhan, Ali ve diğer çalışanlar da projeye dahil edilir. Konuyla ilgili görevlendirilip, illere dağıtılır. 
+
+Görev, tarlaları sürmek, yağmurun yağmasını beklemek, ekinleri çıkartıp, havuzu doldurmaktır. 
+Önce tarlaların ve inşaatların alt yapı çalışmalarına başlanır. 
+Ekinler ekilip, tarlaların boy vermesi beklenir. 
+
+İşçiler tarlaları sular. 
+Tarlada ve inşaatta yerli işçilerin yanı sıra yabancılar da çalışmaktadır. Brezilyalı Kahe, Dixon bilinen en iyi işçilerdir. 
+İşçiler sigortasız, kaçak ama iyi çalışırlar. 
+Önce 3 tarla sürülür. Yağmur da yağar, ekinler de çıkar. 
+Tarlalar bir güzel sulanıp, sürülmeyi bekler. 
+Dokuz puan ceptedir.
+
+Puanla inşaatın, puanla tarlanın ilgisi ise bu havuz probleminin en karmaşık noktasıdır. 
+Çalışmalar devam ederken, döşenen borularla havuza su akmaya, havuz dolmaya başlar. 
+İşçi-patron el ele organize bir şekilde işi çok kısa sürede bitirir. 
+
+Borulardan geçen su önce inşaatlara, ardından tarlalara, oradan döşenen borularla Aziz’in yaptırdığı havuza akar. Su aktıkça, yağmur yağdıkça havuz dolmaya hatta taşmaya başlar. 
+Aziz, Şekip, İlhan ortaklaşa havuzu doldurma işini üç ayda bitirirken ortaya büyük bir sorun çıkar.
+Aylardan yazdır ve Temmuz sıcağında dolan havuzdaki su buharlaşmaya başlar. 
+Türkiye şu soruya odaklanır. 
+
+Organize bir şekilde havuz üç ayda dolduğuna göre bu işin tamamını Aziz tek başına kaç günde yapabilir?
+
+Havuz problemi denince aklıma üniversite sınavındaki bu soru geldi.
+
+Sahi havuz kaç günde dolar?
