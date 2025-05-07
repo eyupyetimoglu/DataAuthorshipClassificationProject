@@ -1,0 +1,1 @@
+If the packages are not automatically installed, you need to install them manually through the IDE. If you hover your mouse over the underlined library name, you will see an "Install package" option, which you can use to install it. Unfortunately, Git cannot read .env-type files, so sometimes packages are not installed automatically.
